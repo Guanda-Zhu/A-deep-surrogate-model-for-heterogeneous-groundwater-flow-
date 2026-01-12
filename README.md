@@ -4,19 +4,19 @@
 This repository contains code for solving the parameterized groundwater flow equations considering the hydraulic conductivity, pumping capacity and random variable as parameters.
 
 ## **Model**
-- code:model.py
+- code: model.py
 
 ## **Training**
-- code:trianer.py
+- code: trianer.py
 
 ## **Case settings**
 
-- code:problem.py
+- code: problem.py
 
 ## **Generating dara**
 
-- code:dataset.py
-- code:sample.py
+- code: dataset.py
+- code: sample.py
 
 ## **How to train the surrogate model**
 - run the code of trianer.py
