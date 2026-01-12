@@ -13,7 +13,7 @@ This repository contains code for solving the parameterized groundwater flow equ
 
 - code: problem.py
 
-## **Generating dara**
+## **Generating data**
 
 - code: dataset.py
 - code: sample.py
