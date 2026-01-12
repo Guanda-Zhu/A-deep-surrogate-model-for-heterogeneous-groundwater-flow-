@@ -1,4 +1,3 @@
-markdown
 
 # **The deep surrogate model for heterogeneous groundwater flow**
 
@@ -20,5 +19,6 @@ This repository contains code for solving the parameterized groundwater flow equ
 - code:sample.py
 
 ## **How to train the surrogate model**
-run trainer.py
+- run the code of trianer.py
+
 ---
